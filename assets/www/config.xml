@@ -6,10 +6,10 @@
         id        = "com.soubotong.rssreader"
         version   = "1.0.0">
 
-    <name>Hello World</name>
+    <name>RSSReader</name>
 
     <description>
-        Hello World sample application that responds to the deviceready event.
+        RSS Reader.
     </description>
 
     <author href="http://www.soubotong.com" email="support@soubotong.com">
